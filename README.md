@@ -28,14 +28,13 @@ Desktop/WebApplication1/WebApplication1/
 
 | Nome         | Parte Responsável                                              |
 |--------------|---------------------------------------------------------------|
-| **Andreey**  | Backend ASP.NET Core (Controllers, Models, integração com banco de dados, APIs) |
-| **Adalberto**| Frontend: HTML, CSS, JavaScript (Layout, interatividade, responsividade) |
+| **Victor**| Frontend: HTML, CSS, TypeScript, React  (Layout, interatividade, responsividade) |
 | **Emanuel**  | Scrum Master: organização do projeto, acompanhamento das tarefas, reuniões e documentação |
 
 ## Tecnologias Utilizadas
 
 - **Backend:** ASP.NET Core MVC (.NET 8)
-- **Frontend:** HTML, CSS, JavaScript puro (com possibilidade de integração por Razor Views e APIs)
+- **Frontend:** HTML, CSS, TypeScript e React (com possibilidade de integração por Razor Views e APIs)
 - **Banco de Dados:** (Sugestão) SQL Server, SQLite ou outro compatível com .NET
 - **Layout:** Bootstrap
 
